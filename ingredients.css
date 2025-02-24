@@ -2,69 +2,69 @@
 /* CSS Document */
 
 .bun-top {
-  height: 70px;
-  width: 60%;
+  height: 75px;
+  width: 62%;
   background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
-  border-bottom: solid 10px rgba(0,0,0,.1);
+  border-bottom: solid 10px rgba(0,0,0,.15);
 }
 
 .cheese {
-  height: 15px;
-  width: 65%;
+  height: 18px;
+  width: 68%;
   background: #f2c120;
-  border-bottom: solid 2px rgba(0,0,0,.1);
+  border-bottom: solid 2px rgba(0,0,0,.15);
 }
 
 .tomato {
-  height: 25px;
-  width: 50%;
+  height: 27px;
+  width: 52%;
   background-color: #dd3710;
-  border-bottom: solid 2px rgba(0,0,0,.1);
+  border-bottom: solid 2px rgba(0,0,0,.15);
 }
 
 .meatball {
-  height: 60px;
-  width: 70px;
-  background: #74380d;
+  height: 65px;
+  width: 75px;
+  background: #7e220d;
   border-radius: 50px;
   display: inline-block;
   vertical-align: top;
 }
 
 .patty {
-  height: 35px;
-  width: 65%;
-  background: #ad370b;
+  height: 38px;
+  width: 68%;
+  background: #ad430b;
   border-radius: 15px;
-  border-bottom: solid 2px rgba(0,0,0,.1);
+  border-bottom: solid 2px rgba(0,0,0,.15);
 }
 
 .pickle {
-  height: 30px;
-  width: 50%;
-  background: #3ac67d;
+  height: 32px;
+  width: 52%;
+  background: #34b36e;
   border-radius: 0 0 100px 100px;
-  border-bottom: solid 10px #2d9961;
+  border-bottom: solid 10px rgba(60, 230, 152, 0.7);
 }
 
 .onion {
-  width: 40%;
-  background-color: #a039bf;
-  border-top: dotted 20px rgba(255,255,255,.2);
+  width: 42%;
+  background-color:#922faf;
+  border-top: dotted 20px rgba(255,255,255,.25);
 }
 
 .bun-bottom {
-  height: 35px;
-  width: 60%;
-  background: #e5b05a;
+  height: 38px;
+  width: 62%;
+  background:#d9a44c ;
   border-radius: 20px 20px 40px 40px;
-  border-top: solid 8px rgba(0,0,0,.1)
+  border-top: solid 8px rgba(0,0,0,.15)
 }
 
 .plate {
-  height: 25px;
-  width: 80%;
-  background: #656565;
+  height: 28px;
+  width: 82%;
+  background: rgba(0, 0, 0, 0.78);
   border-radius: 20px 20px 200px 200px;
 }
